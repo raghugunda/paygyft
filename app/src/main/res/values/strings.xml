@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoPinterest</string>
+    <string name="str_cache_cleared">Data cleared</string>
+</resources>

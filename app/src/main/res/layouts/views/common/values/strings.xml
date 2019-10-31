@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paygyft">DemoPinterest</string>
+    <string name="likes">Likes</string>
+    <string name="clear_cache">Clear Data ?</string>
+    <string name="clear_cache_description">Do you want to clear Data and refresh the Pinboard ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cache_cleared">Data cleared</string>
+    <string name="clicked_by">Click by %s</string>
+    <string name="network_error">Please check internet connection</string>
+</resources>
