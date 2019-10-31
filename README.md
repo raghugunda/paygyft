@@ -47,7 +47,7 @@ Writing test cases is a must.
     
     
 # Architecture
-MVP
+MVP(model view presenter)
 
 # Library Used
  butterknife,loopj,Custom Image load library,gson
