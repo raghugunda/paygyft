@@ -4,7 +4,7 @@ import com.google.gson.Gson;
 import com.raghu.loader.callback.ContentServiceObserver;
 
 import java.lang.reflect.Type;
-
+//image download
 public class ServiceJsonDownload extends ServiceContentTypeDownload
 {
 	public ServiceJsonDownload(String url, ContentServiceObserver contentServiceObserver)

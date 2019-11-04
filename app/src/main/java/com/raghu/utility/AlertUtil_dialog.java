@@ -12,7 +12,7 @@ import com.raghu.view.screen.common.DialogListener;
  *
  * @author SandeepD
  */
-
+//dialog
 public class AlertUtil_dialog
 {
     private static AlertDialog.Builder alertDialogBuilder;

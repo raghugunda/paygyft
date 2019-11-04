@@ -10,7 +10,7 @@ import android.support.v7.app.AppCompatActivity;
 import com.raghu.R;
 import com.raghu.view.screen.common.FragmentInstanceHandler;
 import com.raghu.view.screen.dashboardlist.DashboardListFragment;
-
+//main view
 public class DashBoardActivity extends AppCompatActivity implements FragmentInstanceHandler
 {
 

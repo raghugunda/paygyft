@@ -11,7 +11,7 @@ import android.provider.Settings;
  *
  * @author SandeepD
  */
-
+//networkutil
 public class NetworkUtil
 {
 
